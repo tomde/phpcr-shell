@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.6.1
+-----
+
+- Fixed phpdoc comments
+- Fixed AutoSaveSubscriber to actually work
+
 1.6.0
 -----
 
