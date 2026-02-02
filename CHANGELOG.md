@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.6.2
+-----
+
+- Switch to PSR-4 notation for composer.
+
 1.6.1
 -----
 
